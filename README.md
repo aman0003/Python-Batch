@@ -1,5 +1,6 @@
 ## Let's code together. Share your ideas and your code. Make contributions and build something together!
-## To make a new program or mini project and want to code on that together, you can click on "Use this Template".  
+## To make a new repository under "Python Batch", you can click on "Use this Template".
+## To make a new program or mini project and want to code on that together, you can click on create file or you can also start a project.
 
 ## Welcome to GitHub Pages
 
