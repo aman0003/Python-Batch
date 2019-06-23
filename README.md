@@ -1,3 +1,6 @@
+## Let's code together. Share your ideas and your code. Make contributions and build something together!
+## To make a new program or mini project and want to code on that together, you can click on "Use this Template".  
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/aman0003/360DT-Batch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
