@@ -1,7 +1,7 @@
 # Tax calculator - input : CTC, HRA, RENT, EPF, 80C ; output : BASIC, GROSS, TAX, TAXABLE INCOME, HAND-IN SALARY
 # Missing features : adding new employees or user and storing their data, optimized code class features,
 #                    getting details of one user (after storing data in objects), Exceptions handling
-# Reference : https://www.naukri.com/blog/salary-and-its-components/
+# Reference for concepts : https://www.naukri.com/blog/salary-and-its-components/
 class TaxCalculator:
     std_deduction = 50000
 
